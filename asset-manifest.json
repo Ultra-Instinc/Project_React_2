@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Project_React_2/static/css/main.96ba307c.css",
+    "main.js": "/Project_React_2/static/js/main.0909f94c.js",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/Project_React_2/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/Project_React_2/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/3dad2.png": "/Project_React_2/static/media/3dad2.0a16fd74e7a42006ee93.png",
+    "static/media/nma2.png": "/Project_React_2/static/media/nma2.b6ba82be380ef1a71d88.png",
+    "static/media/iot2.jpg": "/Project_React_2/static/media/iot2.472a80e8ecc3b53d4a26.jpg",
+    "index.html": "/Project_React_2/index.html",
+    "main.96ba307c.css.map": "/Project_React_2/static/css/main.96ba307c.css.map",
+    "main.0909f94c.js.map": "/Project_React_2/static/js/main.0909f94c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ba307c.css",
+    "static/js/main.0909f94c.js"
+  ]
+}
