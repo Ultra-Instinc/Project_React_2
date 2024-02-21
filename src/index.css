@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap");
+.cairo {
+	font-family: "Cairo", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 200;
+	font-style: normal;
+	font-variation-settings: "slnt" 0;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+	@apply bg-gray-200;
+}
+.p-component {
+	@apply ring-0;
+}
+.p-dropdown {
+	@apply border border-blue-600 focus-within:ring focus-within:ring-blue-300;
+}
+.p-column-header-content {
+	@apply text-center;
+}
+.rotate-on-z-axis {
+}
+/* scrollBar begin */
+::-webkit-scrollbar {
+	@apply w-[3px] bg-green-400/10 absolute;
+}
+::-webkit-scrollbar-track {
+	@apply bg-blue-500/20;
+}
+::-webkit-scrollbar-thumb {
+	@apply bg-green-200;
+}
+.custom_shadow {
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
